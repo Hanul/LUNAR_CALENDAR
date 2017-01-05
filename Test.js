@@ -1,6 +1,6 @@
 require(process.env.UPPERCASE_PATH + '/UPPERCASE-CORE/COMMON.js');
 
-require('./LUNAR_CALENDAR/COMMON/LUNAR_CALENDAR.js');
+require('./LUNAR_CALENDAR_BOX/COMMON/LUNAR_CALENDAR.js');
 
 var
 // cal
